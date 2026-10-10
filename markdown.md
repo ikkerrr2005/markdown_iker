@@ -42,6 +42,6 @@ git push | Sube los cambios a GitHub | git push
 
 ![Historial de commits](assets/mi-imagen.png)
 
-##Mi instituto 
+## La escuela 
 
-|[Mi instituto](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![La escuela](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
